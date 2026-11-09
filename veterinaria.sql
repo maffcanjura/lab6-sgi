@@ -324,7 +324,7 @@ CREATE TABLE USUARIO (
 );
 
 INSERT INTO USUARIO (Usuario, Contrasena)
-VALUES ('admin', '1234');
+VALUES ('veterinaria', 'mascotas2026');
 
 CREATE TABLE VENTAS (
   Id_Venta INT NOT NULL AUTO_INCREMENT,
